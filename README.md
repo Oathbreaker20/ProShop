@@ -14,7 +14,7 @@ Features:
 
 ***
 ### Usage:
-Env Variables
+Env Variables <br />
 Create a .env file in then root and add the following <br />
 
 NODE_ENV = development <br />
