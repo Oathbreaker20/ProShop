@@ -39,6 +39,6 @@ cd frontend
 npm run build
 
 
-Sample User Logins:
-jammy@gmail.com (Customer)
-qwerty
+#Sample User Logins:
+Email : jammy@gmail.com (Customer)
+Password: qwerty
