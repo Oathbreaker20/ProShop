@@ -1,5 +1,7 @@
 # eCommerce Platform (Client/User Side) #
-eCommerce platform built with the MERN stack & Redux.
+eCommerce platform built with the MERN stack & Redux. <br />
+
+PROJECT LINK: <https://hsproshopapp.herokuapp.com/>
 
 ***
 Features:
